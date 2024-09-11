@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Charles Fleckenstein
+Sudent Email:  cfflecke@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,5 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+I'm still getting used to python again so alot of what was in this assignment I had forgoten to do. I did try to write most of the code on my own but there were somethings that I couldnt get. So, I used the solution to go over my code to see how what i wrote compared and also to help remember pieces I had forgotten. I think I will be much better in a few weeks time when i've had more practive in python. I learned a lot of the string modifiers again and also about packaging which is something that was new to me.
 
