@@ -88,8 +88,7 @@ Example:
         [{ 'bars' : 6}, {'packs' : 12}, {'carton' : 1}],
     ]    
 '''
-
-
+#ffdg
 # TODO: Write code
 import json
 package_info = []
